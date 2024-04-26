@@ -1,0 +1,14 @@
+C:\Users\Matheus\Desktop\Classificador-De-Nivel\ClassificadorDeNivel\bin\Debug\net8.0\ClassificadorDeNivel.exe
+C:\Users\Matheus\Desktop\Classificador-De-Nivel\ClassificadorDeNivel\bin\Debug\net8.0\ClassificadorDeNivel.deps.json
+C:\Users\Matheus\Desktop\Classificador-De-Nivel\ClassificadorDeNivel\bin\Debug\net8.0\ClassificadorDeNivel.runtimeconfig.json
+C:\Users\Matheus\Desktop\Classificador-De-Nivel\ClassificadorDeNivel\bin\Debug\net8.0\ClassificadorDeNivel.dll
+C:\Users\Matheus\Desktop\Classificador-De-Nivel\ClassificadorDeNivel\bin\Debug\net8.0\ClassificadorDeNivel.pdb
+C:\Users\Matheus\Desktop\Classificador-De-Nivel\ClassificadorDeNivel\obj\Debug\net8.0\ClassificadorDeNivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\Classificador-De-Nivel\ClassificadorDeNivel\obj\Debug\net8.0\ClassificadorDeNivel.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\Classificador-De-Nivel\ClassificadorDeNivel\obj\Debug\net8.0\ClassificadorDeNivel.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\Classificador-De-Nivel\ClassificadorDeNivel\obj\Debug\net8.0\ClassificadorDeNivel.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Classificador-De-Nivel\ClassificadorDeNivel\obj\Debug\net8.0\ClassificadorDeNivel.dll
+C:\Users\Matheus\Desktop\Classificador-De-Nivel\ClassificadorDeNivel\obj\Debug\net8.0\refint\ClassificadorDeNivel.dll
+C:\Users\Matheus\Desktop\Classificador-De-Nivel\ClassificadorDeNivel\obj\Debug\net8.0\ClassificadorDeNivel.pdb
+C:\Users\Matheus\Desktop\Classificador-De-Nivel\ClassificadorDeNivel\obj\Debug\net8.0\ClassificadorDeNivel.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\Classificador-De-Nivel\ClassificadorDeNivel\obj\Debug\net8.0\ref\ClassificadorDeNivel.dll
